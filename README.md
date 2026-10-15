@@ -7,3 +7,4 @@ A responsive static front-end recreation inspired by the public Conejo Valley Fa
 - Hero section and appointment CTA
 - Intro, audience cards, specialties, approach, team, and contact sections
 - Smooth-scroll navigation and dynamic copyright year
+-Only frontend 
